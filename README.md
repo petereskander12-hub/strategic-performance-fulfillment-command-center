@@ -19,4 +19,5 @@ This command center combines an intuitive 2x2 treemap for revenue attribution wi
 * `analysis.sql` & `clean.sql` - Core data extraction, cleaning, and transformation queries executed in DBeaver.
 
 ## Live Dashboard
-You can explore the interactive visualization live on [Tableau Public](https://public.tableau.com).
+You can explore the interactive visualization live on [Tableau Public]
+https://public.tableau.com/app/profile/peter.eskander.said/vizzes
