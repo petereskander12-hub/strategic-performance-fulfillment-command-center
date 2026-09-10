@@ -8,7 +8,7 @@ This command center combines an intuitive 2x2 treemap for revenue attribution wi
 ## Tech Stack & Tools
 * **Visualization:** Tableau Public
 * **Database Management & Queries:** SQL, DBeaver
-* **Data Preparation:** Google Sheets
+* **Data Preparation:** Queries:** SQL, DBeaver
 
 ## Key Features
 * **Revenue Attribution:** Interactive 2x2 treemap breaking down high-impact revenue drivers.
